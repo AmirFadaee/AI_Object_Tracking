@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+outputs/
+*.mp4
+*.csv
+
+yolov8n.pt
+
+.vscode/
